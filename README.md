@@ -46,3 +46,5 @@ The Online Medicine Store allows users to:
 ![billing](https://github.com/user-attachments/assets/866363a7-010b-49f1-999a-4dde24c47950)
 ![addmedicine](https://github.com/user-attachments/assets/140bd00e-62d9-4196-84f5-09ca73ce0b6e)
 
+Bill pdf Demo
+![image](https://github.com/user-attachments/assets/1449f498-5379-46ca-bf4a-daa907df72d4)
