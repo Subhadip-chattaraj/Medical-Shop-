@@ -55,3 +55,8 @@ The Online Medicine Store allows users to:
 ![addmedicine](https://github.com/user-attachments/assets/140bd00e-62d9-4196-84f5-09ca73ce0b6e)
 
 ![image](https://github.com/user-attachments/assets/1449f498-5379-46ca-bf4a-daa907df72d4)
+
+
+---
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
